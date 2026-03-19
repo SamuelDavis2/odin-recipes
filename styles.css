@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif, serif;
+}
+
+.image {
+    display: flex;
+    max-width: 350px;
+    max-height: 350px;
+}
+
+h1 {
+    font-size: 40px;
+}
